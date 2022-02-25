@@ -33,8 +33,8 @@
      <ul>
       <li>HTML,CSS,Javascript ES6</li>
       <li>React Native</li>
-      <li>react-infinite-scroll-component</li>
-      <li>react-datepicker</li>
+      <li>React-infinite-scroll-component</li>
+      <li>React-datepicker</li>
      </ul>
     <h1>4.Simple weather app is the future</h1>
     <ul>
