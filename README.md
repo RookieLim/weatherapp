@@ -10,30 +10,29 @@
     <br><br>
     <strong>React Native based app, <a href="Working..">Simple Weather App</a></strong>
     <br><br>
-    프로젝트 URL : "Working.."
+    Project URL : "Working.."
     <br><br>
-    <img src="https://drive.google.com/uc?id=1X3Wk1F5wnNDKMWcYy7w__9mFX5VsS0Xz alt='WeatherAPP'" width="350px" height="680px"
+    <img src="https://drive.google.com/uc?id=1X3Wk1F5wnNDKMWcYy7w__9mFX5VsS0Xz.jpg alt='WeatherAPP'" width="300" height="630px"
     <h1>1.Simple WeatherApp Intro</h1>
     <h3> 📌My area based Simple UI weather APP</h3>
-    <p>프로젝트 기간 : 2022. 02. 14 ~ 2021. 02. 23<p>
+    <p>Project Period : 2022. 02. 14 ~ 2021. 02. 23<p>
     <p> <span style="color:orange" >"A simple weather app based on my area"</span>
-      <br>An app that allows you to check the region, temperature, and even weather conditions on one screen.<br></p> 
+      <br> An app that allows you to check the region, temperature, and even weather conditions on one screen.<br></p> 
     <h1>2.Simple Weather APP Team </h1>
-    ✔️We worked in communication through the whole process.
+    ✔️ We worked in communication through the whole process.
    <br> ✔️ I checked the information update status in real time while writing it myself.
    <br> ✔️ Through code review, we tell each other what we don't know and fill in the gaps.
    <br> ✔️ We provide feedback on the code through video meeting.
     <br><br>
-    <p><strong>Simple Wheather APP FRONTEND </strong></p>
+    <p><strong>Simple Wheather APP FRONTEND Programmer</strong></p>
     <br> 🌱 <a href = "https://github.com/RookieLim">임재성</a>  
     <br> 🌱 <a href = "https://github.com/mingab91">조민갑</a>
-     <h1>3.기술스택 및 패키지</h1>
+     <h1>3.Technology stacks and packages</h1>
    <h3>🛠Frontend</h3>
-    <strong>기술 스택</strong>
+    <strong>Technology stacks</strong>
      <ul>
       <li>HTML,CSS,Javascript ES6</li>
       <li>React Native</li>
-     </ul>
       <li>react-infinite-scroll-component</li>
       <li>react-datepicker</li>
      </ul>
