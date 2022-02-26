@@ -12,7 +12,7 @@
     <br><br>
     Project URL : "Working.."
     <br><br>
-    <img src="https://user-images.githubusercontent.com/85553325/155724391-65e01b54-55f2-4c2c-a6ca-302db0968f8e.jpg" width="300px" height="630px"
+    <img src="https://user-images.githubusercontent.com/85553325/155724391-65e01b54-55f2-4c2c-a6ca-302db0968f8e.jpg" width="300px" height="630px">
     <h1>1.Simple WeatherApp Intro</h1>
     <h3> 📌My area based Simple UI weather APP</h3>
     <p>Project Period : 2022. 02. 14 ~ 2021. 02. 23<p>
