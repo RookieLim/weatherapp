@@ -43,6 +43,6 @@
       <li>We plan to improve the components through code review to facilitate maintenance.</li>
     </ul>
     <h1>5.Project Planning</h1>
-   <br> <strong><a href = "Working">UI Design</a></strong>
+   <br> <strong><a href = "Working">Notion Plan</a></strong>
   </body>
 </html>
