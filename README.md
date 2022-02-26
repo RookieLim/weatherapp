@@ -24,7 +24,7 @@
    <br> ✔️ Through code review, we tell each other what we don't know and fill in the gaps.
    <br> ✔️ We provide feedback on the code through video meeting.
     <br><br>
-    <p><strong>Simple Wheather APP FRONTEND Programmer</strong></p>
+    <p><strong>Simple Wheather APP Frontend Developer</strong></p>
     <br> 🌱 <a href = "https://github.com/RookieLim">임재성</a>  
     <br> 🌱 <a href = "https://github.com/mingab91">조민갑</a>
      <h1>3.Technology stacks and packages</h1>
