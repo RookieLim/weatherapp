@@ -15,7 +15,7 @@
     <img src="https://user-images.githubusercontent.com/85553325/155724391-65e01b54-55f2-4c2c-a6ca-302db0968f8e.jpg" width="300px" height="630px">
     <h1>1.Simple WeatherApp Intro</h1>
     <h3> 📌My area based Simple UI weather APP</h3>
-    <p>Project Period : 2022. 02. 14 ~ 2021. 02. 23<p>
+    <p>Project Period : 2022. 02. 10 ~ 2022. 02. 24<p>
     <p> <span style="color:orange" >"A simple weather app based on my area"</span>
       <br> An app that allows you to check the region, temperature, and even weather conditions on one screen.<br></p> 
     <h1>2.Simple Weather APP Team </h1>
