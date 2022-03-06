@@ -10,7 +10,7 @@
     <br><br>
     <strong>React Native based app, <a href="https://expo.dev/@rookielim/rookieweather">Simple Weather App</a></strong>
     <br><br>
-    Project URL : "Working.."
+    Project URL : "https://expo.dev/@rookielim/rookieweather"
     <br><br>
     <img src="https://user-images.githubusercontent.com/85553325/155724391-65e01b54-55f2-4c2c-a6ca-302db0968f8e.jpg" width="300px" height="630px">
     <h1>1.Simple WeatherApp Intro</h1>
@@ -38,9 +38,9 @@
      </ul>
     <h1>4.Simple weather app is the future</h1>
     <ul>
-      <li>Rendering is being optimized.</li>
-      <li>We will continue to update based on user feedback.</li>
-      <li>We plan to improve the components through code review to facilitate maintenance.</li>
+      <li>Rendering is being optimized</li>
+      <li>Produced by maximizing the open source of expo</li>
+      <li>Provides real-time weather information using GPS API</li>
     </ul>
    </body>
 </html>
