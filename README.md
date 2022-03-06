@@ -8,7 +8,7 @@
     <br>API-based Weather information receiving site
     <br>App that displays region, weather, and date
     <br><br>
-    <strong>React Native based app, <a href="Working..">Simple Weather App</a></strong>
+    <strong>React Native based app, <a href="https://expo.dev/@rookielim/rookieweather">Simple Weather App</a></strong>
     <br><br>
     Project URL : "Working.."
     <br><br>
